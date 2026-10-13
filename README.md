@@ -15,9 +15,10 @@ J’aime les projets où je touche à tout : la maquette, l’animation qui fait
 
 ### Ma stack
 
-React · TypeScript · Tailwind · Framer Motion · Figma
-Symfony · PHP · Doctrine · API REST · Supabase
-Docker · GitHub Actions · Bash · Linux
+- **Front-end** : React · TypeScript · Tailwind · Framer Motion
+- **Back-end** : Symfony · PHP · Doctrine · API REST · Supabase
+- **DevOps** : Docker · GitHub Actions · Bash · Linux
+- **Outils** : Figma · Notions · Canva · Suite Adobe
 
 ### Actuellement en train d'explorer
 
