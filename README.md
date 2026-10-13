@@ -11,7 +11,6 @@ J’aime les projets où je touche à tout : la maquette, l’animation qui fait
 
 ### Projets
 
-- **[Lyon E-Sport 2026](https://esport-red.vercel.app)** : PWA de planning de matchs esport, projet de groupe (React · TypeScript · Supabase)
 - **[Mon portfolio](https://elora.roget.fr)** : timeline, animations Framer Motion et déploiement automatisé en CI/CD
 
 ### Ma stack
