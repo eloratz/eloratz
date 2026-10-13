@@ -1,16 +1,29 @@
-## Hi there 👋
+# Salut, moi c'est Elora 👋
 
-<!--
-**eloratz/eloratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+J’aime les projets où je touche à tout : la maquette, l’animation qui fait la différence, l’API derrière et le déploiement. Et quand ça coince, je creuse jusqu’à comprendre.
+Étudiante en 3e année de Bachelor Développement Web à MyDigitalSchool (Montpellier), **je cherche une alternance** en développement front-end ou full-stack.
 
-Here are some ideas to get you started:
+### Ce que j'aime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- construire des interfaces qui ont du caractère (animations, thèmes, petits détails)
+- comprendre ce qui se passe derrière : API, base de données, déploiement
+- donner vie à mes idées !
+
+### Projets
+
+- **[Lyon E-Sport 2026](https://esport-red.vercel.app)** : PWA de planning de matchs esport, projet de groupe (React · TypeScript · Supabase)
+- **[Mon portfolio](https://elora.roget.fr)** : timeline, animations Framer Motion et déploiement automatisé en CI/CD
+
+### Ma stack
+
+React · TypeScript · Tailwind · Framer Motion · Figma
+Symfony · PHP · Doctrine · API REST · Supabase
+Docker · GitHub Actions · Bash · Linux
+
+### Actuellement en train d'explorer
+
+- Angular
+- Docker et CI/CD plus en profondeur
+- Java
+
+📫 [elora.roget.fr](https://elora.roget.fr) · [LinkedIn](https://www.linkedin.com/in/elora-roget)
